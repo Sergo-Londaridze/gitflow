@@ -1,1 +1,3 @@
 add some ext for feature-2
+
+fix bug 1
